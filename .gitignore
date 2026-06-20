@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dev-dist/
+.env
+.env.local
+.env.*.local
+tmp/
+*.tsbuildinfo
+
+.vercel
+.codex-remote-attachments/
+supabase/.temp/

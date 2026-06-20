@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#f4efe3"/>
+  <rect x="55" y="55" width="1090" height="690" rx="22" fill="#fff" stroke="#153f31" stroke-width="5"/>
+  <text x="95" y="130" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#153f31">LAITERIE DES ALPES</text>
+  <text x="95" y="205" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#17251f">CRÈME ENTIÈRE 35% MG</text>
+  <text x="95" y="265" font-family="Arial, sans-serif" font-size="30" fill="#17251f">Poids net : 1 L</text>
+  <line x1="95" y1="300" x2="1100" y2="300" stroke="#c7d2cc" stroke-width="3"/>
+  <text x="95" y="360" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#17251f">LOT : LA260615-42</text>
+  <text x="95" y="415" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#17251f">À CONSOMMER JUSQU'AU : 22/06/2026</text>
+  <text x="95" y="475" font-family="Arial, sans-serif" font-size="26" fill="#17251f">À conserver entre 0°C et +4°C.</text>
+  <text x="95" y="515" font-family="Arial, sans-serif" font-size="26" fill="#17251f">Après ouverture : conserver au froid et utiliser sous 3 jours.</text>
+  <text x="95" y="575" font-family="Arial, sans-serif" font-size="24" fill="#17251f">Ingrédients : CRÈME de LAIT, stabilisant : carraghénanes.</text>
+  <text x="95" y="620" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#17251f">ALLERGÈNE : LAIT</text>
+  <g fill="#111">
+    <rect x="95" y="660" width="4" height="55"/><rect x="104" y="660" width="8" height="55"/>
+    <rect x="118" y="660" width="3" height="55"/><rect x="128" y="660" width="7" height="55"/>
+    <rect x="142" y="660" width="4" height="55"/><rect x="153" y="660" width="10" height="55"/>
+    <rect x="169" y="660" width="3" height="55"/><rect x="179" y="660" width="7" height="55"/>
+    <rect x="192" y="660" width="5" height="55"/><rect x="205" y="660" width="9" height="55"/>
+    <rect x="220" y="660" width="4" height="55"/><rect x="232" y="660" width="6" height="55"/>
+    <rect x="244" y="660" width="3" height="55"/><rect x="255" y="660" width="9" height="55"/>
+    <rect x="270" y="660" width="4" height="55"/><rect x="280" y="660" width="8" height="55"/>
+  </g>
+  <text x="95" y="738" font-family="Arial, sans-serif" font-size="21" fill="#17251f">3 760123 456789</text>
+</svg>
